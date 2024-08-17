@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Adam
+
+I am engineer which creating what I want and how I want.
+
+Currently using [Bun](https://github.com/oven-sh/bun) and TS for my projects.
 
 <!--
 **AltairInglorious/AltairInglorious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
