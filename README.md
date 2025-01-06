@@ -4,7 +4,7 @@ I am engineer which creating what I want and how I want.
 
 Currently using [Bun](https://github.com/oven-sh/bun) and TS for my projects.
 
-[Check some articles](https://altairinglorious.github.io/)
+[Check some articles](https://amadeustech.dev/)
 
 <!--
 **AltairInglorious/AltairInglorious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
