@@ -1,6 +1,6 @@
 ### Hi I'm Adam
 
-I am engineer which creating what I want and how I want.
+I am engineer in Amadeus Technologies.
 
 Currently using [Bun](https://github.com/oven-sh/bun) and TS for my projects.
 
